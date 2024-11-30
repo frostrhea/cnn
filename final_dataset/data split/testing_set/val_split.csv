@@ -1,0 +1,481 @@
+image_name,label,image_path
+image_3030.jpg,Afritada_Kaldereta,./final_dataset/augmented_images\afritada_kaldereta\image_3030.jpg
+image_3000.jpg,Afritada_Kaldereta,./final_dataset/augmented_images\afritada_kaldereta\image_3000.jpg
+image_3022.jpg,Afritada_Kaldereta,./final_dataset/augmented_images\afritada_kaldereta\image_3022.jpg
+image_3031.jpg,Afritada_Kaldereta,./final_dataset/augmented_images\afritada_kaldereta\image_3031.jpg
+image_3018.jpg,Afritada_Kaldereta,./final_dataset/augmented_images\afritada_kaldereta\image_3018.jpg
+image_3028.jpg,Afritada_Kaldereta,./final_dataset/augmented_images\afritada_kaldereta\image_3028.jpg
+image_3010.jpg,Afritada_Kaldereta,./final_dataset/augmented_images\afritada_kaldereta\image_3010.jpg
+image_3070.jpg,Afritada_Kaldereta,./final_dataset/augmented_images\afritada_kaldereta\image_3070.jpg
+image_3004.jpg,Afritada_Kaldereta,./final_dataset/augmented_images\afritada_kaldereta\image_3004.jpg
+image_3012.jpg,Afritada_Kaldereta,./final_dataset/augmented_images\afritada_kaldereta\image_3012.jpg
+image_3049.jpg,Afritada_Kaldereta,./final_dataset/augmented_images\afritada_kaldereta\image_3049.jpg
+image_3033.jpg,Afritada_Kaldereta,./final_dataset/augmented_images\afritada_kaldereta\image_3033.jpg
+image_3067.jpg,Afritada_Kaldereta,./final_dataset/augmented_images\afritada_kaldereta\image_3067.jpg
+image_3035.jpg,Afritada_Kaldereta,./final_dataset/augmented_images\afritada_kaldereta\image_3035.jpg
+image_3068.jpg,Afritada_Kaldereta,./final_dataset/augmented_images\afritada_kaldereta\image_3068.jpg
+image_3045.jpg,Afritada_Kaldereta,./final_dataset/augmented_images\afritada_kaldereta\image_3045.jpg
+image_3110.jpg,Arroz Caldo,./final_dataset/augmented_images\arroz_caldo\image_3110.jpg
+image_3080.jpg,Arroz Caldo,./final_dataset/augmented_images\arroz_caldo\image_3080.jpg
+image_3102.jpg,Arroz Caldo,./final_dataset/augmented_images\arroz_caldo\image_3102.jpg
+image_3111.jpg,Arroz Caldo,./final_dataset/augmented_images\arroz_caldo\image_3111.jpg
+image_3098.jpg,Arroz Caldo,./final_dataset/augmented_images\arroz_caldo\image_3098.jpg
+image_3108.jpg,Arroz Caldo,./final_dataset/augmented_images\arroz_caldo\image_3108.jpg
+image_3090.jpg,Arroz Caldo,./final_dataset/augmented_images\arroz_caldo\image_3090.jpg
+image_3150.jpg,Arroz Caldo,./final_dataset/augmented_images\arroz_caldo\image_3150.jpg
+image_3084.jpg,Arroz Caldo,./final_dataset/augmented_images\arroz_caldo\image_3084.jpg
+image_3092.jpg,Arroz Caldo,./final_dataset/augmented_images\arroz_caldo\image_3092.jpg
+image_3129.jpg,Arroz Caldo,./final_dataset/augmented_images\arroz_caldo\image_3129.jpg
+image_3113.jpg,Arroz Caldo,./final_dataset/augmented_images\arroz_caldo\image_3113.jpg
+image_3147.jpg,Arroz Caldo,./final_dataset/augmented_images\arroz_caldo\image_3147.jpg
+image_3115.jpg,Arroz Caldo,./final_dataset/augmented_images\arroz_caldo\image_3115.jpg
+image_3148.jpg,Arroz Caldo,./final_dataset/augmented_images\arroz_caldo\image_3148.jpg
+image_3125.jpg,Arroz Caldo,./final_dataset/augmented_images\arroz_caldo\image_3125.jpg
+image_3253.jpg,Bagnet_Crispy Pata,./final_dataset/augmented_images\bagnet_crispypata\image_3253.jpg
+image_3223.jpg,Bagnet_Crispy Pata,./final_dataset/augmented_images\bagnet_crispypata\image_3223.jpg
+image_3245.jpg,Bagnet_Crispy Pata,./final_dataset/augmented_images\bagnet_crispypata\image_3245.jpg
+image_3254.jpg,Bagnet_Crispy Pata,./final_dataset/augmented_images\bagnet_crispypata\image_3254.jpg
+image_3241.jpg,Bagnet_Crispy Pata,./final_dataset/augmented_images\bagnet_crispypata\image_3241.jpg
+image_3251.jpg,Bagnet_Crispy Pata,./final_dataset/augmented_images\bagnet_crispypata\image_3251.jpg
+image_3233.jpg,Bagnet_Crispy Pata,./final_dataset/augmented_images\bagnet_crispypata\image_3233.jpg
+image_3293.jpg,Bagnet_Crispy Pata,./final_dataset/augmented_images\bagnet_crispypata\image_3293.jpg
+image_3227.jpg,Bagnet_Crispy Pata,./final_dataset/augmented_images\bagnet_crispypata\image_3227.jpg
+image_3235.jpg,Bagnet_Crispy Pata,./final_dataset/augmented_images\bagnet_crispypata\image_3235.jpg
+image_3272.jpg,Bagnet_Crispy Pata,./final_dataset/augmented_images\bagnet_crispypata\image_3272.jpg
+image_3256.jpg,Bagnet_Crispy Pata,./final_dataset/augmented_images\bagnet_crispypata\image_3256.jpg
+image_3290.jpg,Bagnet_Crispy Pata,./final_dataset/augmented_images\bagnet_crispypata\image_3290.jpg
+image_3258.jpg,Bagnet_Crispy Pata,./final_dataset/augmented_images\bagnet_crispypata\image_3258.jpg
+image_3291.jpg,Bagnet_Crispy Pata,./final_dataset/augmented_images\bagnet_crispypata\image_3291.jpg
+image_3268.jpg,Bagnet_Crispy Pata,./final_dataset/augmented_images\bagnet_crispypata\image_3268.jpg
+image_3333.jpg,Balut,./final_dataset/augmented_images\balut\image_3333.jpg
+image_3303.jpg,Balut,./final_dataset/augmented_images\balut\image_3303.jpg
+image_3325.jpg,Balut,./final_dataset/augmented_images\balut\image_3325.jpg
+image_3334.jpg,Balut,./final_dataset/augmented_images\balut\image_3334.jpg
+image_3321.jpg,Balut,./final_dataset/augmented_images\balut\image_3321.jpg
+image_3331.jpg,Balut,./final_dataset/augmented_images\balut\image_3331.jpg
+image_3313.jpg,Balut,./final_dataset/augmented_images\balut\image_3313.jpg
+image_3373.jpg,Balut,./final_dataset/augmented_images\balut\image_3373.jpg
+image_3307.jpg,Balut,./final_dataset/augmented_images\balut\image_3307.jpg
+image_3315.jpg,Balut,./final_dataset/augmented_images\balut\image_3315.jpg
+image_3352.jpg,Balut,./final_dataset/augmented_images\balut\image_3352.jpg
+image_3336.jpg,Balut,./final_dataset/augmented_images\balut\image_3336.jpg
+image_3370.jpg,Balut,./final_dataset/augmented_images\balut\image_3370.jpg
+image_3338.jpg,Balut,./final_dataset/augmented_images\balut\image_3338.jpg
+image_3371.jpg,Balut,./final_dataset/augmented_images\balut\image_3371.jpg
+image_3348.jpg,Balut,./final_dataset/augmented_images\balut\image_3348.jpg
+image_3413.jpg,Bibingka,./final_dataset/augmented_images\bibingka\image_3413.jpg
+image_3383.jpg,Bibingka,./final_dataset/augmented_images\bibingka\image_3383.jpg
+image_3405.jpg,Bibingka,./final_dataset/augmented_images\bibingka\image_3405.jpg
+image_3414.jpg,Bibingka,./final_dataset/augmented_images\bibingka\image_3414.jpg
+image_3401.jpg,Bibingka,./final_dataset/augmented_images\bibingka\image_3401.jpg
+image_3411.jpg,Bibingka,./final_dataset/augmented_images\bibingka\image_3411.jpg
+image_3393.jpg,Bibingka,./final_dataset/augmented_images\bibingka\image_3393.jpg
+image_3453.jpg,Bibingka,./final_dataset/augmented_images\bibingka\image_3453.jpg
+image_3387.jpg,Bibingka,./final_dataset/augmented_images\bibingka\image_3387.jpg
+image_3395.jpg,Bibingka,./final_dataset/augmented_images\bibingka\image_3395.jpg
+image_3432.jpg,Bibingka,./final_dataset/augmented_images\bibingka\image_3432.jpg
+image_3416.jpg,Bibingka,./final_dataset/augmented_images\bibingka\image_3416.jpg
+image_3450.jpg,Bibingka,./final_dataset/augmented_images\bibingka\image_3450.jpg
+image_3418.jpg,Bibingka,./final_dataset/augmented_images\bibingka\image_3418.jpg
+image_3451.jpg,Bibingka,./final_dataset/augmented_images\bibingka\image_3451.jpg
+image_3428.jpg,Bibingka,./final_dataset/augmented_images\bibingka\image_3428.jpg
+image_3493.jpg,Bicol Express,./final_dataset/augmented_images\bicol_express\image_3493.jpg
+image_3463.jpg,Bicol Express,./final_dataset/augmented_images\bicol_express\image_3463.jpg
+image_3485.jpg,Bicol Express,./final_dataset/augmented_images\bicol_express\image_3485.jpg
+image_3494.jpg,Bicol Express,./final_dataset/augmented_images\bicol_express\image_3494.jpg
+image_3481.jpg,Bicol Express,./final_dataset/augmented_images\bicol_express\image_3481.jpg
+image_3491.jpg,Bicol Express,./final_dataset/augmented_images\bicol_express\image_3491.jpg
+image_3473.jpg,Bicol Express,./final_dataset/augmented_images\bicol_express\image_3473.jpg
+image_3533.jpg,Bicol Express,./final_dataset/augmented_images\bicol_express\image_3533.jpg
+image_3467.jpg,Bicol Express,./final_dataset/augmented_images\bicol_express\image_3467.jpg
+image_3475.jpg,Bicol Express,./final_dataset/augmented_images\bicol_express\image_3475.jpg
+image_3512.jpg,Bicol Express,./final_dataset/augmented_images\bicol_express\image_3512.jpg
+image_3496.jpg,Bicol Express,./final_dataset/augmented_images\bicol_express\image_3496.jpg
+image_3530.jpg,Bicol Express,./final_dataset/augmented_images\bicol_express\image_3530.jpg
+image_3498.jpg,Bicol Express,./final_dataset/augmented_images\bicol_express\image_3498.jpg
+image_3531.jpg,Bicol Express,./final_dataset/augmented_images\bicol_express\image_3531.jpg
+image_3508.jpg,Bicol Express,./final_dataset/augmented_images\bicol_express\image_3508.jpg
+image_3573.jpg,Bistek Tagalog,./final_dataset/augmented_images\bistek_tagalog\image_3573.jpg
+image_3543.jpg,Bistek Tagalog,./final_dataset/augmented_images\bistek_tagalog\image_3543.jpg
+image_3565.jpg,Bistek Tagalog,./final_dataset/augmented_images\bistek_tagalog\image_3565.jpg
+image_3574.jpg,Bistek Tagalog,./final_dataset/augmented_images\bistek_tagalog\image_3574.jpg
+image_3561.jpg,Bistek Tagalog,./final_dataset/augmented_images\bistek_tagalog\image_3561.jpg
+image_3571.jpg,Bistek Tagalog,./final_dataset/augmented_images\bistek_tagalog\image_3571.jpg
+image_3553.jpg,Bistek Tagalog,./final_dataset/augmented_images\bistek_tagalog\image_3553.jpg
+image_3613.jpg,Bistek Tagalog,./final_dataset/augmented_images\bistek_tagalog\image_3613.jpg
+image_3547.jpg,Bistek Tagalog,./final_dataset/augmented_images\bistek_tagalog\image_3547.jpg
+image_3555.jpg,Bistek Tagalog,./final_dataset/augmented_images\bistek_tagalog\image_3555.jpg
+image_3592.jpg,Bistek Tagalog,./final_dataset/augmented_images\bistek_tagalog\image_3592.jpg
+image_3576.jpg,Bistek Tagalog,./final_dataset/augmented_images\bistek_tagalog\image_3576.jpg
+image_3610.jpg,Bistek Tagalog,./final_dataset/augmented_images\bistek_tagalog\image_3610.jpg
+image_3578.jpg,Bistek Tagalog,./final_dataset/augmented_images\bistek_tagalog\image_3578.jpg
+image_3611.jpg,Bistek Tagalog,./final_dataset/augmented_images\bistek_tagalog\image_3611.jpg
+image_3588.jpg,Bistek Tagalog,./final_dataset/augmented_images\bistek_tagalog\image_3588.jpg
+image_3653.jpg,Bulalo,./final_dataset/augmented_images\bulalo\image_3653.jpg
+image_3623.jpg,Bulalo,./final_dataset/augmented_images\bulalo\image_3623.jpg
+image_3645.jpg,Bulalo,./final_dataset/augmented_images\bulalo\image_3645.jpg
+image_3654.jpg,Bulalo,./final_dataset/augmented_images\bulalo\image_3654.jpg
+image_3641.jpg,Bulalo,./final_dataset/augmented_images\bulalo\image_3641.jpg
+image_3651.jpg,Bulalo,./final_dataset/augmented_images\bulalo\image_3651.jpg
+image_3633.jpg,Bulalo,./final_dataset/augmented_images\bulalo\image_3633.jpg
+image_3693.jpg,Bulalo,./final_dataset/augmented_images\bulalo\image_3693.jpg
+image_3627.jpg,Bulalo,./final_dataset/augmented_images\bulalo\image_3627.jpg
+image_3635.jpg,Bulalo,./final_dataset/augmented_images\bulalo\image_3635.jpg
+image_3672.jpg,Bulalo,./final_dataset/augmented_images\bulalo\image_3672.jpg
+image_3656.jpg,Bulalo,./final_dataset/augmented_images\bulalo\image_3656.jpg
+image_3690.jpg,Bulalo,./final_dataset/augmented_images\bulalo\image_3690.jpg
+image_3658.jpg,Bulalo,./final_dataset/augmented_images\bulalo\image_3658.jpg
+image_3691.jpg,Bulalo,./final_dataset/augmented_images\bulalo\image_3691.jpg
+image_3668.jpg,Bulalo,./final_dataset/augmented_images\bulalo\image_3668.jpg
+image_3733.jpg,Champorado,./final_dataset/augmented_images\champorado\image_3733.jpg
+image_3703.jpg,Champorado,./final_dataset/augmented_images\champorado\image_3703.jpg
+image_3725.jpg,Champorado,./final_dataset/augmented_images\champorado\image_3725.jpg
+image_3734.jpg,Champorado,./final_dataset/augmented_images\champorado\image_3734.jpg
+image_3721.jpg,Champorado,./final_dataset/augmented_images\champorado\image_3721.jpg
+image_3731.jpg,Champorado,./final_dataset/augmented_images\champorado\image_3731.jpg
+image_3713.jpg,Champorado,./final_dataset/augmented_images\champorado\image_3713.jpg
+image_3773.jpg,Champorado,./final_dataset/augmented_images\champorado\image_3773.jpg
+image_3707.jpg,Champorado,./final_dataset/augmented_images\champorado\image_3707.jpg
+image_3715.jpg,Champorado,./final_dataset/augmented_images\champorado\image_3715.jpg
+image_3752.jpg,Champorado,./final_dataset/augmented_images\champorado\image_3752.jpg
+image_3736.jpg,Champorado,./final_dataset/augmented_images\champorado\image_3736.jpg
+image_3770.jpg,Champorado,./final_dataset/augmented_images\champorado\image_3770.jpg
+image_3738.jpg,Champorado,./final_dataset/augmented_images\champorado\image_3738.jpg
+image_3771.jpg,Champorado,./final_dataset/augmented_images\champorado\image_3771.jpg
+image_3748.jpg,Champorado,./final_dataset/augmented_images\champorado\image_3748.jpg
+image_3888.jpg,Chicharon,./final_dataset/augmented_images\chicharon\image_3888.jpg
+image_3858.jpg,Chicharon,./final_dataset/augmented_images\chicharon\image_3858.jpg
+image_3880.jpg,Chicharon,./final_dataset/augmented_images\chicharon\image_3880.jpg
+image_3889.jpg,Chicharon,./final_dataset/augmented_images\chicharon\image_3889.jpg
+image_3876.jpg,Chicharon,./final_dataset/augmented_images\chicharon\image_3876.jpg
+image_3886.jpg,Chicharon,./final_dataset/augmented_images\chicharon\image_3886.jpg
+image_3868.jpg,Chicharon,./final_dataset/augmented_images\chicharon\image_3868.jpg
+image_3928.jpg,Chicharon,./final_dataset/augmented_images\chicharon\image_3928.jpg
+image_3862.jpg,Chicharon,./final_dataset/augmented_images\chicharon\image_3862.jpg
+image_3870.jpg,Chicharon,./final_dataset/augmented_images\chicharon\image_3870.jpg
+image_3907.jpg,Chicharon,./final_dataset/augmented_images\chicharon\image_3907.jpg
+image_3891.jpg,Chicharon,./final_dataset/augmented_images\chicharon\image_3891.jpg
+image_3925.jpg,Chicharon,./final_dataset/augmented_images\chicharon\image_3925.jpg
+image_3893.jpg,Chicharon,./final_dataset/augmented_images\chicharon\image_3893.jpg
+image_3926.jpg,Chicharon,./final_dataset/augmented_images\chicharon\image_3926.jpg
+image_3903.jpg,Chicharon,./final_dataset/augmented_images\chicharon\image_3903.jpg
+image_3968.jpg,Chicken Adobo,./final_dataset/augmented_images\chicken_adobo\image_3968.jpg
+image_3938.jpg,Chicken Adobo,./final_dataset/augmented_images\chicken_adobo\image_3938.jpg
+image_3960.jpg,Chicken Adobo,./final_dataset/augmented_images\chicken_adobo\image_3960.jpg
+image_3969.jpg,Chicken Adobo,./final_dataset/augmented_images\chicken_adobo\image_3969.jpg
+image_3956.jpg,Chicken Adobo,./final_dataset/augmented_images\chicken_adobo\image_3956.jpg
+image_3966.jpg,Chicken Adobo,./final_dataset/augmented_images\chicken_adobo\image_3966.jpg
+image_3948.jpg,Chicken Adobo,./final_dataset/augmented_images\chicken_adobo\image_3948.jpg
+image_4008.jpg,Chicken Adobo,./final_dataset/augmented_images\chicken_adobo\image_4008.jpg
+image_3942.jpg,Chicken Adobo,./final_dataset/augmented_images\chicken_adobo\image_3942.jpg
+image_3950.jpg,Chicken Adobo,./final_dataset/augmented_images\chicken_adobo\image_3950.jpg
+image_3987.jpg,Chicken Adobo,./final_dataset/augmented_images\chicken_adobo\image_3987.jpg
+image_3971.jpg,Chicken Adobo,./final_dataset/augmented_images\chicken_adobo\image_3971.jpg
+image_4005.jpg,Chicken Adobo,./final_dataset/augmented_images\chicken_adobo\image_4005.jpg
+image_3973.jpg,Chicken Adobo,./final_dataset/augmented_images\chicken_adobo\image_3973.jpg
+image_4006.jpg,Chicken Adobo,./final_dataset/augmented_images\chicken_adobo\image_4006.jpg
+image_3983.jpg,Chicken Adobo,./final_dataset/augmented_images\chicken_adobo\image_3983.jpg
+image_4048.jpg,Filipino Spaghetti,./final_dataset/augmented_images\filipino_spaghetti\image_4048.jpg
+image_4018.jpg,Filipino Spaghetti,./final_dataset/augmented_images\filipino_spaghetti\image_4018.jpg
+image_4040.jpg,Filipino Spaghetti,./final_dataset/augmented_images\filipino_spaghetti\image_4040.jpg
+image_4049.jpg,Filipino Spaghetti,./final_dataset/augmented_images\filipino_spaghetti\image_4049.jpg
+image_4036.jpg,Filipino Spaghetti,./final_dataset/augmented_images\filipino_spaghetti\image_4036.jpg
+image_4046.jpg,Filipino Spaghetti,./final_dataset/augmented_images\filipino_spaghetti\image_4046.jpg
+image_4028.jpg,Filipino Spaghetti,./final_dataset/augmented_images\filipino_spaghetti\image_4028.jpg
+image_4088.jpg,Filipino Spaghetti,./final_dataset/augmented_images\filipino_spaghetti\image_4088.jpg
+image_4022.jpg,Filipino Spaghetti,./final_dataset/augmented_images\filipino_spaghetti\image_4022.jpg
+image_4030.jpg,Filipino Spaghetti,./final_dataset/augmented_images\filipino_spaghetti\image_4030.jpg
+image_4067.jpg,Filipino Spaghetti,./final_dataset/augmented_images\filipino_spaghetti\image_4067.jpg
+image_4051.jpg,Filipino Spaghetti,./final_dataset/augmented_images\filipino_spaghetti\image_4051.jpg
+image_4085.jpg,Filipino Spaghetti,./final_dataset/augmented_images\filipino_spaghetti\image_4085.jpg
+image_4053.jpg,Filipino Spaghetti,./final_dataset/augmented_images\filipino_spaghetti\image_4053.jpg
+image_4086.jpg,Filipino Spaghetti,./final_dataset/augmented_images\filipino_spaghetti\image_4086.jpg
+image_4063.jpg,Filipino Spaghetti,./final_dataset/augmented_images\filipino_spaghetti\image_4063.jpg
+image_4128.jpg,Ginataang Gulay_Kare-kare,./final_dataset/augmented_images\ginataang_gulay__ginataang_gulay\image_4128.jpg
+image_4098.jpg,Ginataang Gulay_Kare-kare,./final_dataset/augmented_images\ginataang_gulay__ginataang_gulay\image_4098.jpg
+image_4120.jpg,Ginataang Gulay_Kare-kare,./final_dataset/augmented_images\ginataang_gulay__ginataang_gulay\image_4120.jpg
+image_4129.jpg,Ginataang Gulay_Kare-kare,./final_dataset/augmented_images\ginataang_gulay__ginataang_gulay\image_4129.jpg
+image_4116.jpg,Ginataang Gulay_Kare-kare,./final_dataset/augmented_images\ginataang_gulay__ginataang_gulay\image_4116.jpg
+image_4126.jpg,Ginataang Gulay_Kare-kare,./final_dataset/augmented_images\ginataang_gulay__ginataang_gulay\image_4126.jpg
+image_4108.jpg,Ginataang Gulay_Kare-kare,./final_dataset/augmented_images\ginataang_gulay__ginataang_gulay\image_4108.jpg
+image_4168.jpg,Ginataang Gulay_Kare-kare,./final_dataset/augmented_images\ginataang_gulay__ginataang_gulay\image_4168.jpg
+image_4102.jpg,Ginataang Gulay_Kare-kare,./final_dataset/augmented_images\ginataang_gulay__ginataang_gulay\image_4102.jpg
+image_4110.jpg,Ginataang Gulay_Kare-kare,./final_dataset/augmented_images\ginataang_gulay__ginataang_gulay\image_4110.jpg
+image_4147.jpg,Ginataang Gulay_Kare-kare,./final_dataset/augmented_images\ginataang_gulay__ginataang_gulay\image_4147.jpg
+image_4131.jpg,Ginataang Gulay_Kare-kare,./final_dataset/augmented_images\ginataang_gulay__ginataang_gulay\image_4131.jpg
+image_4165.jpg,Ginataang Gulay_Kare-kare,./final_dataset/augmented_images\ginataang_gulay__ginataang_gulay\image_4165.jpg
+image_4133.jpg,Ginataang Gulay_Kare-kare,./final_dataset/augmented_images\ginataang_gulay__ginataang_gulay\image_4133.jpg
+image_4166.jpg,Ginataang Gulay_Kare-kare,./final_dataset/augmented_images\ginataang_gulay__ginataang_gulay\image_4166.jpg
+image_4143.jpg,Ginataang Gulay_Kare-kare,./final_dataset/augmented_images\ginataang_gulay__ginataang_gulay\image_4143.jpg
+image_4208.jpg,Halo-halo,./final_dataset/augmented_images\halo_halo\image_4208.jpg
+image_4178.jpg,Halo-halo,./final_dataset/augmented_images\halo_halo\image_4178.jpg
+image_4200.jpg,Halo-halo,./final_dataset/augmented_images\halo_halo\image_4200.jpg
+image_4209.jpg,Halo-halo,./final_dataset/augmented_images\halo_halo\image_4209.jpg
+image_4196.jpg,Halo-halo,./final_dataset/augmented_images\halo_halo\image_4196.jpg
+image_4206.jpg,Halo-halo,./final_dataset/augmented_images\halo_halo\image_4206.jpg
+image_4188.jpg,Halo-halo,./final_dataset/augmented_images\halo_halo\image_4188.jpg
+image_4248.jpg,Halo-halo,./final_dataset/augmented_images\halo_halo\image_4248.jpg
+image_4182.jpg,Halo-halo,./final_dataset/augmented_images\halo_halo\image_4182.jpg
+image_4190.jpg,Halo-halo,./final_dataset/augmented_images\halo_halo\image_4190.jpg
+image_4227.jpg,Halo-halo,./final_dataset/augmented_images\halo_halo\image_4227.jpg
+image_4211.jpg,Halo-halo,./final_dataset/augmented_images\halo_halo\image_4211.jpg
+image_4245.jpg,Halo-halo,./final_dataset/augmented_images\halo_halo\image_4245.jpg
+image_4213.jpg,Halo-halo,./final_dataset/augmented_images\halo_halo\image_4213.jpg
+image_4246.jpg,Halo-halo,./final_dataset/augmented_images\halo_halo\image_4246.jpg
+image_4223.jpg,Halo-halo,./final_dataset/augmented_images\halo_halo\image_4223.jpg
+image_4358.jpg,Kinilaw,./final_dataset/augmented_images\kinilaw\image_4358.jpg
+image_4328.jpg,Kinilaw,./final_dataset/augmented_images\kinilaw\image_4328.jpg
+image_4350.jpg,Kinilaw,./final_dataset/augmented_images\kinilaw\image_4350.jpg
+image_4359.jpg,Kinilaw,./final_dataset/augmented_images\kinilaw\image_4359.jpg
+image_4346.jpg,Kinilaw,./final_dataset/augmented_images\kinilaw\image_4346.jpg
+image_4356.jpg,Kinilaw,./final_dataset/augmented_images\kinilaw\image_4356.jpg
+image_4338.jpg,Kinilaw,./final_dataset/augmented_images\kinilaw\image_4338.jpg
+image_4398.jpg,Kinilaw,./final_dataset/augmented_images\kinilaw\image_4398.jpg
+image_4332.jpg,Kinilaw,./final_dataset/augmented_images\kinilaw\image_4332.jpg
+image_4340.jpg,Kinilaw,./final_dataset/augmented_images\kinilaw\image_4340.jpg
+image_4377.jpg,Kinilaw,./final_dataset/augmented_images\kinilaw\image_4377.jpg
+image_4361.jpg,Kinilaw,./final_dataset/augmented_images\kinilaw\image_4361.jpg
+image_4395.jpg,Kinilaw,./final_dataset/augmented_images\kinilaw\image_4395.jpg
+image_4363.jpg,Kinilaw,./final_dataset/augmented_images\kinilaw\image_4363.jpg
+image_4396.jpg,Kinilaw,./final_dataset/augmented_images\kinilaw\image_4396.jpg
+image_4373.jpg,Kinilaw,./final_dataset/augmented_images\kinilaw\image_4373.jpg
+image_4438.jpg,Laing,./final_dataset/augmented_images\laing\image_4438.jpg
+image_4408.jpg,Laing,./final_dataset/augmented_images\laing\image_4408.jpg
+image_4430.jpg,Laing,./final_dataset/augmented_images\laing\image_4430.jpg
+image_4439.jpg,Laing,./final_dataset/augmented_images\laing\image_4439.jpg
+image_4426.jpg,Laing,./final_dataset/augmented_images\laing\image_4426.jpg
+image_4436.jpg,Laing,./final_dataset/augmented_images\laing\image_4436.jpg
+image_4418.jpg,Laing,./final_dataset/augmented_images\laing\image_4418.jpg
+image_4478.jpg,Laing,./final_dataset/augmented_images\laing\image_4478.jpg
+image_4412.jpg,Laing,./final_dataset/augmented_images\laing\image_4412.jpg
+image_4420.jpg,Laing,./final_dataset/augmented_images\laing\image_4420.jpg
+image_4457.jpg,Laing,./final_dataset/augmented_images\laing\image_4457.jpg
+image_4441.jpg,Laing,./final_dataset/augmented_images\laing\image_4441.jpg
+image_4475.jpg,Laing,./final_dataset/augmented_images\laing\image_4475.jpg
+image_4443.jpg,Laing,./final_dataset/augmented_images\laing\image_4443.jpg
+image_4476.jpg,Laing,./final_dataset/augmented_images\laing\image_4476.jpg
+image_4453.jpg,Laing,./final_dataset/augmented_images\laing\image_4453.jpg
+image_4518.jpg,Leche Flan,./final_dataset/augmented_images\leche_flan\image_4518.jpg
+image_4488.jpg,Leche Flan,./final_dataset/augmented_images\leche_flan\image_4488.jpg
+image_4510.jpg,Leche Flan,./final_dataset/augmented_images\leche_flan\image_4510.jpg
+image_4519.jpg,Leche Flan,./final_dataset/augmented_images\leche_flan\image_4519.jpg
+image_4506.jpg,Leche Flan,./final_dataset/augmented_images\leche_flan\image_4506.jpg
+image_4516.jpg,Leche Flan,./final_dataset/augmented_images\leche_flan\image_4516.jpg
+image_4498.jpg,Leche Flan,./final_dataset/augmented_images\leche_flan\image_4498.jpg
+image_4558.jpg,Leche Flan,./final_dataset/augmented_images\leche_flan\image_4558.jpg
+image_4492.jpg,Leche Flan,./final_dataset/augmented_images\leche_flan\image_4492.jpg
+image_4500.jpg,Leche Flan,./final_dataset/augmented_images\leche_flan\image_4500.jpg
+image_4537.jpg,Leche Flan,./final_dataset/augmented_images\leche_flan\image_4537.jpg
+image_4521.jpg,Leche Flan,./final_dataset/augmented_images\leche_flan\image_4521.jpg
+image_4555.jpg,Leche Flan,./final_dataset/augmented_images\leche_flan\image_4555.jpg
+image_4523.jpg,Leche Flan,./final_dataset/augmented_images\leche_flan\image_4523.jpg
+image_4556.jpg,Leche Flan,./final_dataset/augmented_images\leche_flan\image_4556.jpg
+image_4533.jpg,Leche Flan,./final_dataset/augmented_images\leche_flan\image_4533.jpg
+image_4661.jpg,Lechon,./final_dataset/augmented_images\lechon\image_4661.jpg
+image_4631.jpg,Lechon,./final_dataset/augmented_images\lechon\image_4631.jpg
+image_4653.jpg,Lechon,./final_dataset/augmented_images\lechon\image_4653.jpg
+image_4662.jpg,Lechon,./final_dataset/augmented_images\lechon\image_4662.jpg
+image_4649.jpg,Lechon,./final_dataset/augmented_images\lechon\image_4649.jpg
+image_4659.jpg,Lechon,./final_dataset/augmented_images\lechon\image_4659.jpg
+image_4641.jpg,Lechon,./final_dataset/augmented_images\lechon\image_4641.jpg
+image_4701.jpg,Lechon,./final_dataset/augmented_images\lechon\image_4701.jpg
+image_4635.jpg,Lechon,./final_dataset/augmented_images\lechon\image_4635.jpg
+image_4643.jpg,Lechon,./final_dataset/augmented_images\lechon\image_4643.jpg
+image_4680.jpg,Lechon,./final_dataset/augmented_images\lechon\image_4680.jpg
+image_4664.jpg,Lechon,./final_dataset/augmented_images\lechon\image_4664.jpg
+image_4698.jpg,Lechon,./final_dataset/augmented_images\lechon\image_4698.jpg
+image_4666.jpg,Lechon,./final_dataset/augmented_images\lechon\image_4666.jpg
+image_4699.jpg,Lechon,./final_dataset/augmented_images\lechon\image_4699.jpg
+image_4676.jpg,Lechon,./final_dataset/augmented_images\lechon\image_4676.jpg
+image_4811.jpg,Liempo,./final_dataset/augmented_images\liempo\image_4811.jpg
+image_4781.jpg,Liempo,./final_dataset/augmented_images\liempo\image_4781.jpg
+image_4803.jpg,Liempo,./final_dataset/augmented_images\liempo\image_4803.jpg
+image_4812.jpg,Liempo,./final_dataset/augmented_images\liempo\image_4812.jpg
+image_4799.jpg,Liempo,./final_dataset/augmented_images\liempo\image_4799.jpg
+image_4809.jpg,Liempo,./final_dataset/augmented_images\liempo\image_4809.jpg
+image_4791.jpg,Liempo,./final_dataset/augmented_images\liempo\image_4791.jpg
+image_4851.jpg,Liempo,./final_dataset/augmented_images\liempo\image_4851.jpg
+image_4785.jpg,Liempo,./final_dataset/augmented_images\liempo\image_4785.jpg
+image_4793.jpg,Liempo,./final_dataset/augmented_images\liempo\image_4793.jpg
+image_4830.jpg,Liempo,./final_dataset/augmented_images\liempo\image_4830.jpg
+image_4814.jpg,Liempo,./final_dataset/augmented_images\liempo\image_4814.jpg
+image_4848.jpg,Liempo,./final_dataset/augmented_images\liempo\image_4848.jpg
+image_4816.jpg,Liempo,./final_dataset/augmented_images\liempo\image_4816.jpg
+image_4849.jpg,Liempo,./final_dataset/augmented_images\liempo\image_4849.jpg
+image_4826.jpg,Liempo,./final_dataset/augmented_images\liempo\image_4826.jpg
+image_4891.jpg,Lumpia,./final_dataset/augmented_images\lumpia\image_4891.jpg
+image_4861.jpg,Lumpia,./final_dataset/augmented_images\lumpia\image_4861.jpg
+image_4883.jpg,Lumpia,./final_dataset/augmented_images\lumpia\image_4883.jpg
+image_4892.jpg,Lumpia,./final_dataset/augmented_images\lumpia\image_4892.jpg
+image_4879.jpg,Lumpia,./final_dataset/augmented_images\lumpia\image_4879.jpg
+image_4889.jpg,Lumpia,./final_dataset/augmented_images\lumpia\image_4889.jpg
+image_4871.jpg,Lumpia,./final_dataset/augmented_images\lumpia\image_4871.jpg
+image_4931.jpg,Lumpia,./final_dataset/augmented_images\lumpia\image_4931.jpg
+image_4865.jpg,Lumpia,./final_dataset/augmented_images\lumpia\image_4865.jpg
+image_4873.jpg,Lumpia,./final_dataset/augmented_images\lumpia\image_4873.jpg
+image_4910.jpg,Lumpia,./final_dataset/augmented_images\lumpia\image_4910.jpg
+image_4894.jpg,Lumpia,./final_dataset/augmented_images\lumpia\image_4894.jpg
+image_4928.jpg,Lumpia,./final_dataset/augmented_images\lumpia\image_4928.jpg
+image_4896.jpg,Lumpia,./final_dataset/augmented_images\lumpia\image_4896.jpg
+image_4929.jpg,Lumpia,./final_dataset/augmented_images\lumpia\image_4929.jpg
+image_4906.jpg,Lumpia,./final_dataset/augmented_images\lumpia\image_4906.jpg
+image_4971.jpg,Pancit Guisado,./final_dataset/augmented_images\pancit_guisado\image_4971.jpg
+image_4941.jpg,Pancit Guisado,./final_dataset/augmented_images\pancit_guisado\image_4941.jpg
+image_4963.jpg,Pancit Guisado,./final_dataset/augmented_images\pancit_guisado\image_4963.jpg
+image_4972.jpg,Pancit Guisado,./final_dataset/augmented_images\pancit_guisado\image_4972.jpg
+image_4959.jpg,Pancit Guisado,./final_dataset/augmented_images\pancit_guisado\image_4959.jpg
+image_4969.jpg,Pancit Guisado,./final_dataset/augmented_images\pancit_guisado\image_4969.jpg
+image_4951.jpg,Pancit Guisado,./final_dataset/augmented_images\pancit_guisado\image_4951.jpg
+image_5011.jpg,Pancit Guisado,./final_dataset/augmented_images\pancit_guisado\image_5011.jpg
+image_4945.jpg,Pancit Guisado,./final_dataset/augmented_images\pancit_guisado\image_4945.jpg
+image_4953.jpg,Pancit Guisado,./final_dataset/augmented_images\pancit_guisado\image_4953.jpg
+image_4990.jpg,Pancit Guisado,./final_dataset/augmented_images\pancit_guisado\image_4990.jpg
+image_4974.jpg,Pancit Guisado,./final_dataset/augmented_images\pancit_guisado\image_4974.jpg
+image_5008.jpg,Pancit Guisado,./final_dataset/augmented_images\pancit_guisado\image_5008.jpg
+image_4976.jpg,Pancit Guisado,./final_dataset/augmented_images\pancit_guisado\image_4976.jpg
+image_5009.jpg,Pancit Guisado,./final_dataset/augmented_images\pancit_guisado\image_5009.jpg
+image_4986.jpg,Pancit Guisado,./final_dataset/augmented_images\pancit_guisado\image_4986.jpg
+image_5110.jpg,Pancit Palabok,./final_dataset/augmented_images\pancit_palabok\image_5110.jpg
+image_5080.jpg,Pancit Palabok,./final_dataset/augmented_images\pancit_palabok\image_5080.jpg
+image_5102.jpg,Pancit Palabok,./final_dataset/augmented_images\pancit_palabok\image_5102.jpg
+image_5111.jpg,Pancit Palabok,./final_dataset/augmented_images\pancit_palabok\image_5111.jpg
+image_5098.jpg,Pancit Palabok,./final_dataset/augmented_images\pancit_palabok\image_5098.jpg
+image_5108.jpg,Pancit Palabok,./final_dataset/augmented_images\pancit_palabok\image_5108.jpg
+image_5090.jpg,Pancit Palabok,./final_dataset/augmented_images\pancit_palabok\image_5090.jpg
+image_5150.jpg,Pancit Palabok,./final_dataset/augmented_images\pancit_palabok\image_5150.jpg
+image_5084.jpg,Pancit Palabok,./final_dataset/augmented_images\pancit_palabok\image_5084.jpg
+image_5092.jpg,Pancit Palabok,./final_dataset/augmented_images\pancit_palabok\image_5092.jpg
+image_5129.jpg,Pancit Palabok,./final_dataset/augmented_images\pancit_palabok\image_5129.jpg
+image_5113.jpg,Pancit Palabok,./final_dataset/augmented_images\pancit_palabok\image_5113.jpg
+image_5147.jpg,Pancit Palabok,./final_dataset/augmented_images\pancit_palabok\image_5147.jpg
+image_5115.jpg,Pancit Palabok,./final_dataset/augmented_images\pancit_palabok\image_5115.jpg
+image_5148.jpg,Pancit Palabok,./final_dataset/augmented_images\pancit_palabok\image_5148.jpg
+image_5125.jpg,Pancit Palabok,./final_dataset/augmented_images\pancit_palabok\image_5125.jpg
+image_5190.jpg,Pandesal,./final_dataset/augmented_images\pandesal\image_5190.jpg
+image_5160.jpg,Pandesal,./final_dataset/augmented_images\pandesal\image_5160.jpg
+image_5182.jpg,Pandesal,./final_dataset/augmented_images\pandesal\image_5182.jpg
+image_5191.jpg,Pandesal,./final_dataset/augmented_images\pandesal\image_5191.jpg
+image_5178.jpg,Pandesal,./final_dataset/augmented_images\pandesal\image_5178.jpg
+image_5188.jpg,Pandesal,./final_dataset/augmented_images\pandesal\image_5188.jpg
+image_5170.jpg,Pandesal,./final_dataset/augmented_images\pandesal\image_5170.jpg
+image_5230.jpg,Pandesal,./final_dataset/augmented_images\pandesal\image_5230.jpg
+image_5164.jpg,Pandesal,./final_dataset/augmented_images\pandesal\image_5164.jpg
+image_5172.jpg,Pandesal,./final_dataset/augmented_images\pandesal\image_5172.jpg
+image_5209.jpg,Pandesal,./final_dataset/augmented_images\pandesal\image_5209.jpg
+image_5193.jpg,Pandesal,./final_dataset/augmented_images\pandesal\image_5193.jpg
+image_5227.jpg,Pandesal,./final_dataset/augmented_images\pandesal\image_5227.jpg
+image_5195.jpg,Pandesal,./final_dataset/augmented_images\pandesal\image_5195.jpg
+image_5228.jpg,Pandesal,./final_dataset/augmented_images\pandesal\image_5228.jpg
+image_5205.jpg,Pandesal,./final_dataset/augmented_images\pandesal\image_5205.jpg
+image_5270.jpg,Pork Adobo,./final_dataset/augmented_images\pork_adobo\image_5270.jpg
+image_5240.jpg,Pork Adobo,./final_dataset/augmented_images\pork_adobo\image_5240.jpg
+image_5262.jpg,Pork Adobo,./final_dataset/augmented_images\pork_adobo\image_5262.jpg
+image_5271.jpg,Pork Adobo,./final_dataset/augmented_images\pork_adobo\image_5271.jpg
+image_5258.jpg,Pork Adobo,./final_dataset/augmented_images\pork_adobo\image_5258.jpg
+image_5268.jpg,Pork Adobo,./final_dataset/augmented_images\pork_adobo\image_5268.jpg
+image_5250.jpg,Pork Adobo,./final_dataset/augmented_images\pork_adobo\image_5250.jpg
+image_5310.jpg,Pork Adobo,./final_dataset/augmented_images\pork_adobo\image_5310.jpg
+image_5244.jpg,Pork Adobo,./final_dataset/augmented_images\pork_adobo\image_5244.jpg
+image_5252.jpg,Pork Adobo,./final_dataset/augmented_images\pork_adobo\image_5252.jpg
+image_5289.jpg,Pork Adobo,./final_dataset/augmented_images\pork_adobo\image_5289.jpg
+image_5273.jpg,Pork Adobo,./final_dataset/augmented_images\pork_adobo\image_5273.jpg
+image_5307.jpg,Pork Adobo,./final_dataset/augmented_images\pork_adobo\image_5307.jpg
+image_5275.jpg,Pork Adobo,./final_dataset/augmented_images\pork_adobo\image_5275.jpg
+image_5308.jpg,Pork Adobo,./final_dataset/augmented_images\pork_adobo\image_5308.jpg
+image_5285.jpg,Pork Adobo,./final_dataset/augmented_images\pork_adobo\image_5285.jpg
+image_5350.jpg,Pork Barbecue,./final_dataset/augmented_images\pork_barbecue\image_5350.jpg
+image_5320.jpg,Pork Barbecue,./final_dataset/augmented_images\pork_barbecue\image_5320.jpg
+image_5342.jpg,Pork Barbecue,./final_dataset/augmented_images\pork_barbecue\image_5342.jpg
+image_5351.jpg,Pork Barbecue,./final_dataset/augmented_images\pork_barbecue\image_5351.jpg
+image_5338.jpg,Pork Barbecue,./final_dataset/augmented_images\pork_barbecue\image_5338.jpg
+image_5348.jpg,Pork Barbecue,./final_dataset/augmented_images\pork_barbecue\image_5348.jpg
+image_5330.jpg,Pork Barbecue,./final_dataset/augmented_images\pork_barbecue\image_5330.jpg
+image_5390.jpg,Pork Barbecue,./final_dataset/augmented_images\pork_barbecue\image_5390.jpg
+image_5324.jpg,Pork Barbecue,./final_dataset/augmented_images\pork_barbecue\image_5324.jpg
+image_5332.jpg,Pork Barbecue,./final_dataset/augmented_images\pork_barbecue\image_5332.jpg
+image_5369.jpg,Pork Barbecue,./final_dataset/augmented_images\pork_barbecue\image_5369.jpg
+image_5353.jpg,Pork Barbecue,./final_dataset/augmented_images\pork_barbecue\image_5353.jpg
+image_5387.jpg,Pork Barbecue,./final_dataset/augmented_images\pork_barbecue\image_5387.jpg
+image_5355.jpg,Pork Barbecue,./final_dataset/augmented_images\pork_barbecue\image_5355.jpg
+image_5388.jpg,Pork Barbecue,./final_dataset/augmented_images\pork_barbecue\image_5388.jpg
+image_5365.jpg,Pork Barbecue,./final_dataset/augmented_images\pork_barbecue\image_5365.jpg
+image_5509.jpg,Pork Sisig,./final_dataset/augmented_images\pork_sisig\image_5509.jpg
+image_5479.jpg,Pork Sisig,./final_dataset/augmented_images\pork_sisig\image_5479.jpg
+image_5501.jpg,Pork Sisig,./final_dataset/augmented_images\pork_sisig\image_5501.jpg
+image_5510.jpg,Pork Sisig,./final_dataset/augmented_images\pork_sisig\image_5510.jpg
+image_5497.jpg,Pork Sisig,./final_dataset/augmented_images\pork_sisig\image_5497.jpg
+image_5507.jpg,Pork Sisig,./final_dataset/augmented_images\pork_sisig\image_5507.jpg
+image_5489.jpg,Pork Sisig,./final_dataset/augmented_images\pork_sisig\image_5489.jpg
+image_5549.jpg,Pork Sisig,./final_dataset/augmented_images\pork_sisig\image_5549.jpg
+image_5483.jpg,Pork Sisig,./final_dataset/augmented_images\pork_sisig\image_5483.jpg
+image_5491.jpg,Pork Sisig,./final_dataset/augmented_images\pork_sisig\image_5491.jpg
+image_5528.jpg,Pork Sisig,./final_dataset/augmented_images\pork_sisig\image_5528.jpg
+image_5512.jpg,Pork Sisig,./final_dataset/augmented_images\pork_sisig\image_5512.jpg
+image_5546.jpg,Pork Sisig,./final_dataset/augmented_images\pork_sisig\image_5546.jpg
+image_5514.jpg,Pork Sisig,./final_dataset/augmented_images\pork_sisig\image_5514.jpg
+image_5547.jpg,Pork Sisig,./final_dataset/augmented_images\pork_sisig\image_5547.jpg
+image_5524.jpg,Pork Sisig,./final_dataset/augmented_images\pork_sisig\image_5524.jpg
+image_5589.jpg,Sinigang,./final_dataset/augmented_images\sinigang\image_5589.jpg
+image_5559.jpg,Sinigang,./final_dataset/augmented_images\sinigang\image_5559.jpg
+image_5581.jpg,Sinigang,./final_dataset/augmented_images\sinigang\image_5581.jpg
+image_5590.jpg,Sinigang,./final_dataset/augmented_images\sinigang\image_5590.jpg
+image_5577.jpg,Sinigang,./final_dataset/augmented_images\sinigang\image_5577.jpg
+image_5587.jpg,Sinigang,./final_dataset/augmented_images\sinigang\image_5587.jpg
+image_5569.jpg,Sinigang,./final_dataset/augmented_images\sinigang\image_5569.jpg
+image_5629.jpg,Sinigang,./final_dataset/augmented_images\sinigang\image_5629.jpg
+image_5563.jpg,Sinigang,./final_dataset/augmented_images\sinigang\image_5563.jpg
+image_5571.jpg,Sinigang,./final_dataset/augmented_images\sinigang\image_5571.jpg
+image_5608.jpg,Sinigang,./final_dataset/augmented_images\sinigang\image_5608.jpg
+image_5592.jpg,Sinigang,./final_dataset/augmented_images\sinigang\image_5592.jpg
+image_5626.jpg,Sinigang,./final_dataset/augmented_images\sinigang\image_5626.jpg
+image_5594.jpg,Sinigang,./final_dataset/augmented_images\sinigang\image_5594.jpg
+image_5627.jpg,Sinigang,./final_dataset/augmented_images\sinigang\image_5627.jpg
+image_5604.jpg,Sinigang,./final_dataset/augmented_images\sinigang\image_5604.jpg
+image_5738.jpg,Taho,./final_dataset/augmented_images\taho\image_5738.jpg
+image_5708.jpg,Taho,./final_dataset/augmented_images\taho\image_5708.jpg
+image_5730.jpg,Taho,./final_dataset/augmented_images\taho\image_5730.jpg
+image_5739.jpg,Taho,./final_dataset/augmented_images\taho\image_5739.jpg
+image_5726.jpg,Taho,./final_dataset/augmented_images\taho\image_5726.jpg
+image_5736.jpg,Taho,./final_dataset/augmented_images\taho\image_5736.jpg
+image_5718.jpg,Taho,./final_dataset/augmented_images\taho\image_5718.jpg
+image_5778.jpg,Taho,./final_dataset/augmented_images\taho\image_5778.jpg
+image_5712.jpg,Taho,./final_dataset/augmented_images\taho\image_5712.jpg
+image_5720.jpg,Taho,./final_dataset/augmented_images\taho\image_5720.jpg
+image_5757.jpg,Taho,./final_dataset/augmented_images\taho\image_5757.jpg
+image_5741.jpg,Taho,./final_dataset/augmented_images\taho\image_5741.jpg
+image_5775.jpg,Taho,./final_dataset/augmented_images\taho\image_5775.jpg
+image_5743.jpg,Taho,./final_dataset/augmented_images\taho\image_5743.jpg
+image_5776.jpg,Taho,./final_dataset/augmented_images\taho\image_5776.jpg
+image_5753.jpg,Taho,./final_dataset/augmented_images\taho\image_5753.jpg
+image_5818.jpg,Tinola,./final_dataset/augmented_images\tinola\image_5818.jpg
+image_5788.jpg,Tinola,./final_dataset/augmented_images\tinola\image_5788.jpg
+image_5810.jpg,Tinola,./final_dataset/augmented_images\tinola\image_5810.jpg
+image_5819.jpg,Tinola,./final_dataset/augmented_images\tinola\image_5819.jpg
+image_5806.jpg,Tinola,./final_dataset/augmented_images\tinola\image_5806.jpg
+image_5816.jpg,Tinola,./final_dataset/augmented_images\tinola\image_5816.jpg
+image_5798.jpg,Tinola,./final_dataset/augmented_images\tinola\image_5798.jpg
+image_5858.jpg,Tinola,./final_dataset/augmented_images\tinola\image_5858.jpg
+image_5792.jpg,Tinola,./final_dataset/augmented_images\tinola\image_5792.jpg
+image_5800.jpg,Tinola,./final_dataset/augmented_images\tinola\image_5800.jpg
+image_5837.jpg,Tinola,./final_dataset/augmented_images\tinola\image_5837.jpg
+image_5821.jpg,Tinola,./final_dataset/augmented_images\tinola\image_5821.jpg
+image_5855.jpg,Tinola,./final_dataset/augmented_images\tinola\image_5855.jpg
+image_5823.jpg,Tinola,./final_dataset/augmented_images\tinola\image_5823.jpg
+image_5856.jpg,Tinola,./final_dataset/augmented_images\tinola\image_5856.jpg
+image_5833.jpg,Tinola,./final_dataset/augmented_images\tinola\image_5833.jpg
+image_5898.jpg,Turon,./final_dataset/augmented_images\turon\image_5898.jpg
+image_5868.jpg,Turon,./final_dataset/augmented_images\turon\image_5868.jpg
+image_5890.jpg,Turon,./final_dataset/augmented_images\turon\image_5890.jpg
+image_5899.jpg,Turon,./final_dataset/augmented_images\turon\image_5899.jpg
+image_5886.jpg,Turon,./final_dataset/augmented_images\turon\image_5886.jpg
+image_5896.jpg,Turon,./final_dataset/augmented_images\turon\image_5896.jpg
+image_5878.jpg,Turon,./final_dataset/augmented_images\turon\image_5878.jpg
+image_5938.jpg,Turon,./final_dataset/augmented_images\turon\image_5938.jpg
+image_5872.jpg,Turon,./final_dataset/augmented_images\turon\image_5872.jpg
+image_5880.jpg,Turon,./final_dataset/augmented_images\turon\image_5880.jpg
+image_5917.jpg,Turon,./final_dataset/augmented_images\turon\image_5917.jpg
+image_5901.jpg,Turon,./final_dataset/augmented_images\turon\image_5901.jpg
+image_5935.jpg,Turon,./final_dataset/augmented_images\turon\image_5935.jpg
+image_5903.jpg,Turon,./final_dataset/augmented_images\turon\image_5903.jpg
+image_5936.jpg,Turon,./final_dataset/augmented_images\turon\image_5936.jpg
+image_5913.jpg,Turon,./final_dataset/augmented_images\turon\image_5913.jpg
